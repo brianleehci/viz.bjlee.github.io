@@ -8,7 +8,7 @@ Python 프로그래밍 언어를 기반으로 pandas, NumPy, Matplotlib, seaborn
 
 ## 강의 정보
 * 강의 장소:	507호
-* 강의 시간:	목요일 18:00 ~ 20:50
+* 강의 시간:	목요일 18:00 ~ 20:20
 * 강사: 융합공학과 이용석
 * Mail: brian.lee.hci@gmail.com
 * 강의 홈페이지	[https://github.com/brianleehci/viz.bjlee.github.io/](https://github.com/brianleehci/viz.bjlee.github.io/)
